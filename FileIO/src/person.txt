@@ -1,0 +1,6 @@
+name = Neha
+age = 21
+city = Mumbai
+name = Heman
+age = 23
+city = Delhi
